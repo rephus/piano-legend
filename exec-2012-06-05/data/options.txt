@@ -1,0 +1,6 @@
+dificult=2
+conectivity=offline
+speed=5
+language=en
+fullscreen=off
+staff=off

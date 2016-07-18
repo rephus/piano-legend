@@ -1,0 +1,4 @@
+fullscreen=on
+staff=on
+conectivity=online
+language=es

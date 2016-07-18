@@ -1,0 +1,10 @@
+DbSettings.0=89.128.145.208
+DbSettings.1=3306
+DbSettings.10=Error establecer conexi\u00F3n base de datos 
+DbSettings.2=user
+DbSettings.3=public
+DbSettings.5=http://89.128.145.208/piano
+DbSettings.6=com.mysql.jdbc.Driver
+DbSettings.7=jdbc:mysql://
+DbSettings.8=:
+DbSettings.9=/

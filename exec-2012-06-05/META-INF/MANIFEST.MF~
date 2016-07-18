@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Rsrc-Class-Path: ./ mysql-connector-java-5.0.8-bin.jar sdljava.jar
+Class-Path: .
+Rsrc-Main-Class: Main
+Main-Class: org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader
+
